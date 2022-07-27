@@ -1,0 +1,7 @@
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task6.1\bin\Debug\task6.1.exe.config
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task6.1\bin\Debug\task6.1.exe
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task6.1\bin\Debug\task6.1.pdb
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task6.1\obj\Debug\task6.1.csproj.AssemblyReference.cache
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task6.1\obj\Debug\task6.1.csproj.CoreCompileInputs.cache
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task6.1\obj\Debug\task6.1.exe
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task6.1\obj\Debug\task6.1.pdb
