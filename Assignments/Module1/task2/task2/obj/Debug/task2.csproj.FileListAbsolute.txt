@@ -1,7 +1,0 @@
-E:\.net_framework\Raj.net_work\Assignments\Module1\task2\task2\bin\Debug\task2.exe.config
-E:\.net_framework\Raj.net_work\Assignments\Module1\task2\task2\bin\Debug\task2.exe
-E:\.net_framework\Raj.net_work\Assignments\Module1\task2\task2\bin\Debug\task2.pdb
-E:\.net_framework\Raj.net_work\Assignments\Module1\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
-E:\.net_framework\Raj.net_work\Assignments\Module1\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
-E:\.net_framework\Raj.net_work\Assignments\Module1\task2\task2\obj\Debug\task2.exe
-E:\.net_framework\Raj.net_work\Assignments\Module1\task2\task2\obj\Debug\task2.pdb

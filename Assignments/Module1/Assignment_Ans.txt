@@ -1,0 +1,16 @@
+Task 14:- How can we manage runtime errors?
+Answer :- In C# runtime errors can be manage by an in-build feature called Exception handling. It provides way to respond the runtime errors.
+          program by transferring control to special code called handler.  
+
+Task 15:- What is abstract class?
+Answer :- It is a restricted class that cannot be used to create objects
+
+Task 16:- What is dll?
+Answer :- A DLL is a library that contains code and data that can be used by more than one program at the same time.
+
+Task 17:- What is namespace?
+Answer :- The namespace keyword is used to declare a scope that contains a set of related objects.
+
+Task 19:- What is difference between for loop and foreach loop.
+Answer :- for loop executes a statement or a block of statement until the given condition is false. Whereas foreach loop executes a statement
+	  or a block of statements for each element present in the array and there is no need to define the minimum or maximum limit.

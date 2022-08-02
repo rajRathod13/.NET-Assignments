@@ -1,0 +1,7 @@
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task13\bin\Debug\task13.exe.config
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task13\bin\Debug\task13.exe
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task13\bin\Debug\task13.pdb
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task13\obj\Debug\task13.csproj.AssemblyReference.cache
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task13\obj\Debug\task13.csproj.CoreCompileInputs.cache
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task13\obj\Debug\task13.exe
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task13\obj\Debug\task13.pdb

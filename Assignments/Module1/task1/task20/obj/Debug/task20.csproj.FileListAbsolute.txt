@@ -1,0 +1,6 @@
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task20\bin\Debug\task20.exe.config
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task20\bin\Debug\task20.exe
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task20\bin\Debug\task20.pdb
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task20\obj\Debug\task20.csproj.CoreCompileInputs.cache
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task20\obj\Debug\task20.exe
+E:\.net_framework\Raj.net_work\Assignments\Module1\task1\task20\obj\Debug\task20.pdb
