@@ -14,3 +14,17 @@ Answer :- The namespace keyword is used to declare a scope that contains a set o
 Task 19:- What is difference between for loop and foreach loop.
 Answer :- for loop executes a statement or a block of statement until the given condition is false. Whereas foreach loop executes a statement
 	  or a block of statements for each element present in the array and there is no need to define the minimum or maximum limit.
+
+Task 30:- What is dictionary? Advantages of Dictionary?
+Answer :- Dictionary is a generic collection which is generally used to store key/value pairs.
+	  Advantages of Dictionary,
+	  It is a generic type which means we can use it with any data type.
+
+Task 31:- How to prevent class to be instantiate?
+Answer :- There are three ways to prevent instantiate,
+	  1)Abstract
+	  2)Static class
+	  3)Private and protected constructor
+
+Task 33:- What is difference between array and list?
+Answer :- An array stores a fixed-size sequential collection of elements of the same type, whereas list is a generic collection.
