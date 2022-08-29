@@ -1,0 +1,65 @@
+Task 1 :- What is .net Core?
+Answer :- It is a free, cross - platform , open sourse development platform for building many kinds of applications.
+
+Task 2 :- What is Core CLR?
+Answer :- CoreCLR is the . NET execution engine in . NET Core, performing functions such as garbage collection and compilation to machine code.
+
+Task 3 :- What is role of client?
+Answer :- During the course of a project, the client's role is crucial to the overall success. They play an active role in approving project plans, requesting changes, raising issues and risks,
+          approving milestones, releasing payments, and accepting (or declining) the final deliverables of the project.
+
+Task 4 :- What is role of server?
+Answer :- The role of a server is to share data as well as to share resources and distribute work. A server computer can serve its own computer programs as well;
+	  depending on the scenario, this could be part of give and take transaction, or simply a technical possibility. 
+
+Task 5 :- What is client server architecture?
+Answer :- client-server architecture, architecture of a computer network in which many clients (remote processors) request and receive service from a centralized server (host computer). Client computers provide an interface to
+	  allow a computer user to request services of the server and to display the results the server returns. Servers wait for requests to arrive from clients and then respond to them.
+
+Task 6 :- What is role of compiler?
+Answer :- compiler, computer software that translates (compiles) source code written in a high-level language
+	  into a set of machine-language instructions that can be understood by a digital computer's CPU.
+
+Task 7 :- What is difference between Compiler and Interpreter?
+Answer :- A compiler translates the entire source code in a single run. An interpreter translates the entire
+	 source code line by line. It consumes less time, it is faster than an interpreter.
+
+Task 8 :- How is .Net Core different from .Net Framework?
+Answer :- . Net Core does not support desktop application development and it rather focuses on the web, windows mobile, and windows store.
+	  . Net Framework is used for the development of both desktop and web applications as well as it supports windows forms and WPF applications.
+
+Task 9 :- What is MVC?
+Answer :- Model–view–controller (MVC) is a software architectural pattern commonly used for developing user interfaces that divide the related program logic into three interconnected elements.
+	  This is done to separate internal representations of information from the ways information is presented to and accepted from the user.
+
+Task 10:- What is communication protocol and what is difference between HTTP and HTTPS?
+Answer :- A communication protocol is a system of rules that allows two or more entities of a communications system to transmit information via any kind of variation of a physical quantity.
+	  The protocol defines the rules, syntax, semantics and synchronization of communication and possible error recovery methods. 
+	  The only difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses, and to digitally sign those requests and responses. As a result, HTTPS is far more secure than HTTP.
+
+Task 11:- Explain Services in .Net Core?
+Answer :- ASP.NET Core includes a built-in dependency injection (DI) framework that makes configured services available throughout an app. For example, a logging component is a service.
+
+Task 12:- Explain Middleware Components?
+Answer :- Platform middleware supports software development and delivery by providing a runtime hosting environment, such as a container, for application program logic. Its primary components are in-memory and enterprise application
+	  servers, as well as web servers and content management.
+
+Task 13:- Explain What is Request Pipeline?
+Answer :- The Request Pipeline is the mechanism by which requests are processed beginning with a Request and ending with a Response.
+	  The pipeline specifies how the application should respond to the HTTP request. 
+
+Task 14:- Explain MVC application life cycle.
+Answer :- MVC actually defined in two life cycles, the application life cycle, and the request life cycle. 
+	  The application life cycle, in which the application process starts the running server until the time it stops. and it tagged the two events in the startup file of your application. i.e  the application start and end events
+
+
+Task 15:- Where do you find the Middleware in .Net Core?
+Answer :- We can find middleware in startup class request pipeline.
+
+
+Task 16:- What is difference between Asp.Net webform and .Net Core?
+Answer :- WEB FORMS - ASP.NET Web Forms is a web application framework and one of several programming models supported by the Microsoft ASP.NET technology. Web Forms applications can be written in any programming language which supports the Common Language Runtime, such as C# or Visual Basic. 
+		      The main building blocks of Web Forms pages are server controls, which are reusable components responsible for rendering HTML markup and responding to events.
+	              A technique called view state is used to persist the state of server controls between normally stateless HTTP requests.
+	  .NET CORE - ASP.NET Core is a free and open-source web framework and successor to ASP.NET,developed by Microsoft.It is a modular framework that runs on both the full .NET Framework, on Windows, and the cross-platform .NET. 
+		      However ASP.NET Core version 3 works only on .NET Core dropping support of the .NET Framework. 

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<template2.Models.Student>
+
+@{
+    ViewData["Title"] = "StudentInfo";
+    Layout = "~/Views/Shared/travelLayout.cshtml";
+}
+
+<h1>StudentInfo</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Roll_no)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.sName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.per)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Roll_no)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.sName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.per)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
