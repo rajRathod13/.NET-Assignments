@@ -1,0 +1,12 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor _contextAccessor; 
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+
+<h3>@_contextAccessor.HttpContext.Session.GetString("uname")</h3>
+
+

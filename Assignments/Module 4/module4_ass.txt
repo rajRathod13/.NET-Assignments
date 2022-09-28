@@ -1,0 +1,62 @@
+Que  1: - Explain Dependency Injection.
+Answer: - Dependency injection is help to use various inbuilt as well as custome dependencies services across the our project. 
+	  Whenever want to use service first register it in configureServices method and just inject it in perticular controller in which we want it.
+
+Que  2: - Explain various types of Dependency Injection.
+Answer: - There are 3 types of Dependency Injection.
+
+    	    Constructor Injection
+    	    Property Injection
+    	    Method Injection 
+
+Que  4: - What is session? What is the default time for session?
+Answer: - Session state is an ASP.NET Core scenario for storage of user data while the user browses a web app. Session state uses a store maintained by the app to persist data across requests from a client.
+	  The session data is backed by a cache and considered ephemeral data. 
+	  Default time for session is 20min.
+
+Que  8: - What is Query string?
+Answer: - A query string is a collection of characters input to a computer or web browser. A Query String is helpful when we want to transfer a value from one page to another.
+	  Disadvantage : - All the attributes and values are visible to the end user. Therefore, they are not secure. 
+			 - There is a limit to URL length of 255 characters.
+
+Que  9: - What is cookie? What are limitations for cookie?
+Answer: - A cookie is a piece of data typically used to store information about the user and is stored on the user's computer.
+	  Limitation :   Cookies can be disabled on user browsers.
+   			 Cookies are transmitted for each HTTP request/response causing overhead on bandwidth.
+    			 No security for sensitive data.
+
+Que 12: - what is the difference between Temp data, View, and View Bag?
+Answer: - Temp Data --> TempData is used to transfer data from view to controller, controller to view, or from one action method to another action method of the same or a different controller. 
+			TempData stores the data temporarily and automatically removes it after retrieving a value.
+	  View	    --> A view is an HTML template with embedded Razor markup. Razor markup is code that interacts with HTML markup to produce a webpage that's sent to the client. 
+			In ASP.NET Core MVC, views are .cshtml files that use the C# programming language in Razor markup.
+	  ViewBag   --> The ViewBag in ASP.NET MVC is used to transfer temporary data (which is not included in the model) from the controller to the view. 
+			Internally, it is a dynamic type property of the ControllerBase class which is the base class of the Controller class.
+
+Que 14: - What is the use of Areas in MVC?
+Answer: - Using areas creates a hierarchy for the purpose of routing by adding another route parameter, area , to controller and action or a Razor Page page . 
+	  Areas provide a way to partition an ASP.NET Core Web app into smaller functional groups, each with its own set of Razor Pages, controllers, views, and models.
+
+Que 16: - What is difference between javascript and jquery?
+Answer: - JavaScript: It is a major scripting programming language that is used to make websites more responsive and interactive. It is one of the pivoted parts alongside HTML and CSS which are used to create web pages. 
+	  If HTML & CSS decorates and designed the web-pages so, Javascript makes the web pages dynamic(we can say it gives them life). JavaScript is a major client-side language.
+ 
+	  jQuery: JQuery is a framework for javaScript which developed from JavaScript. It is the most popular JavaScript library invented by John Resign and was released in January 2006 at BarCamp NYC.
+	  It is a free, open-source library and It’s a fast, concise, and rich-featured JavaScript library and also has cross-browser compatibility.
+	  The purpose of jQuery is to make life easier for the masses so that they can easily develop websites and browser-based applications using javaScript.
+
+Que 17: - What is difference between Linq and Entity Framework?
+Answer: - Entity Framework is an object-relational mapping (ORM) framework for connecting C# code to external databases, usually SQL Server.
+	  LINQ is a query language embedded into C# and a set of extension methods in order to make it useful.
+
+Que 23: - Explain various Tag Helpers and its use.
+Answer: - A Tag Helper Component is a Tag Helper that allows you to conditionally modify or add HTML elements from server-side code. This feature is available in ASP.NET Core 2.0 or later. 
+	  "asp-host" --> It is used for specifying a host name in your URL.
+	  "asp-protocol" --> The asp-protocol attribute is for specifying a protocol (such as https) in your URL.
+	  "asp-all-rute-data" --> The asp-all-route-data attribute supports the creation of a dictionary of key-value pairs. The key is the parameter name, and the value is the parameter value.
+	  "asp-route" --> The asp-route attribute is used for creating a URL linking directly to a named route. 
+	  "asp-conteoller" --> The asp-controller attribute assigns the controller used for generating the URL.
+
+Que 25: - Explain hoe Tag Helpers are different from Razor Controls.
+Answer: - Tag Helpers are attached to HTML elements inside your Razor views and can help you write markup that is both cleaner and easier to read than the traditional HTML Helpers.
+	  HTML Helpers, on the other hand, are invoked as methods that are mixed with HTML inside your Razor views.

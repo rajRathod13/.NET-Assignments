@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "ShowMsg";
+}
+
+<h1>ShowMsg</h1>
+<h3>@ViewBag.msg</h3>
+<h4>@TempData["data"]</h4>
+
+<a href="/Que13/AnotherView">Go to Another View.</a>
+
+@{
+    TempData.Keep("data");
+            }
+
