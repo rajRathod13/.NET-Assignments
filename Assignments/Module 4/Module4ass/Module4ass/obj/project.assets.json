@@ -8740,11 +8740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4ass\\Module4ass.csproj",
+      "projectUniqueName": "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4ass\\Module4ass.csproj",
       "projectName": "Module4ass",
-      "projectPath": "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4ass\\Module4ass.csproj",
+      "projectPath": "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4ass\\Module4ass.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4ass\\obj\\",
+      "outputPath": "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4ass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8810,7 +8810,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

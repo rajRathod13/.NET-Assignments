@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Que22\\Module4Que22.csproj": {}
+    "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Que22\\Module4Que22.csproj": {}
   },
   "projects": {
-    "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Que22\\Module4Que22.csproj": {
+    "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Que22\\Module4Que22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Que22\\Module4Que22.csproj",
+        "projectUniqueName": "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Que22\\Module4Que22.csproj",
         "projectName": "Module4Que22",
-        "projectPath": "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Que22\\Module4Que22.csproj",
+        "projectPath": "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Que22\\Module4Que22.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Que22\\obj\\",
+        "outputPath": "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Que22\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

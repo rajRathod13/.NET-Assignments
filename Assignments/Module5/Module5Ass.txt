@@ -1,0 +1,32 @@
+1) What is AppSettings.json file and AppSettings.Development.json?
+Ans: AppSetting.json :- The appsettings. json file is an application configuration file used to store configuration settings such as database connections strings, 
+			any application scope global variables, etc.
+     AppSetting.Development.json:-  appsettings.Development. json is used for development config while developing the app.
+
+2)What are required attributes for Ajax call?
+Ans: AJAX just uses a combination of: A browser built-in XMLHttpRequest object (to request data from a web server) JavaScript and HTML DOM (to display or use the data).
+
+3)What is JsonResult Type in MVC?
+Ans: JsonResult is one of the type of MVC action result type which returns the data back to the view or the browser in the form of JSON (JavaScript Object notation format).
+
+4)What is Nuget package?
+Ans: a NuGet package is a single ZIP file with the . nupkg extension that contains compiled code (DLLs), other files related to that code,
+     and a descriptive manifest that includes information like the package's version number.
+
+5)What is the use of AJAX?
+Ans: AJAX stands for Asynchronous JavaScript And XML. In a nutshell, it is the use of the XMLHttpRequest object to communicate with servers.
+
+6)Explain View Components.
+Ans: A view component defines its logic in an InvokeAsync method that returns a Task<IViewComponentResult> or in a synchronous Invoke method that returns an IViewComponentResult . 
+     Parameters come directly from invocation of the view component, not from model binding. A view component never directly handles a request.
+
+7)How are View Components different from Partial View?
+Ans:View components are similar to partial views, but they're much more powerful. View components don't use model binding, they depend on the data passed when calling the view component.
+
+11)Explain the use of Migration.
+Ans: Application migration is the process of moving software applications from one computing environment to another. This can include migrating applications from one data center to another,
+     such as from a public to a private cloud, or from a company's on-premises server to a cloud provider's environment.
+
+14)What are Filters?
+Ans:Filters in ASP.NET Core allow code to run before or after specific stages in the request processing pipeline. Built-in filters handle tasks such as: Authorization, preventing access to resources a user isn't authorized for.
+    Response caching, short-circuiting the request pipeline to return a cached response.

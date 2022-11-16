@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Validation\\Module4Validation.csproj": {}
+    "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Validation\\Module4Validation.csproj": {}
   },
   "projects": {
-    "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Validation\\Module4Validation.csproj": {
+    "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Validation\\Module4Validation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Validation\\Module4Validation.csproj",
+        "projectUniqueName": "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Validation\\Module4Validation.csproj",
         "projectName": "Module4Validation",
-        "projectPath": "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Validation\\Module4Validation.csproj",
+        "projectPath": "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Validation\\Module4Validation.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Validation\\obj\\",
+        "outputPath": "F:\\.net_framework\\Raj.net_work\\Assignments\\Module 4\\Module4ass\\Module4Validation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
