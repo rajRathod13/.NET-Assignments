@@ -1,0 +1,22 @@
+1)What is web service?
+Ans: A web service is either: a service offered by an electronic device to another electronic device, communicating with each other via the Internet, 
+     or a server running on a computer device, listening for requests at a particular port over a network, serving web documents.
+
+2)What is request and response?
+Ans: Request: - A web request can also be known as an HTTP request which is the protocol that interacts between the client and the server. A client will type in a URL address prompting the web request to the server. 
+     Response:- They are feedback that your website is built correctly and web server functioning as intended.
+
+3)What is IIS?
+Ans: Internet Information Services is an extensible web server software created by Microsoft for use with the Windows NT family. IIS supports HTTP, HTTP/2, HTTPS, FTP, FTPS, SMTP and NNTP.
+
+4)What are the types of webservice?
+Ans: A Web service, in very broad terms, is a method of communication between two applications or electronic devices over the World Wide Web (WWW). 
+     Web services are of two kinds: Simple Object Access Protocol (SOAP) and Representational State Transfer (REST).
+
+5)What is XML and Json?
+Ans:JSON is a data interchange format and only provides a data encoding specification. XML is a language to specify custom markup languages, and provides a lot more than data interchange. With its strict semantics,
+    XML defined a standard to assert data integrity of XML documents, of any XML sub-language.
+
+6)What are Async and Await?
+Ans: In computer programming, the async/await pattern is a syntactic feature of many programming languages that allows an asynchronous, non-blocking function to be structured in a way similar to an ordinary synchronous function.
+

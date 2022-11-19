@@ -23,6 +23,9 @@ Ans: A view component defines its logic in an InvokeAsync method that returns a 
 7)How are View Components different from Partial View?
 Ans:View components are similar to partial views, but they're much more powerful. View components don't use model binding, they depend on the data passed when calling the view component.
 
+10)How is Code first different from database first approach?
+Ans: In the code first approach, the programmer has to write the classes with the required properties first, while in the database first approach, the programmer has to create first the database using GUI.
+
 11)Explain the use of Migration.
 Ans: Application migration is the process of moving software applications from one computing environment to another. This can include migrating applications from one data center to another,
      such as from a public to a private cloud, or from a company's on-premises server to a cloud provider's environment.
